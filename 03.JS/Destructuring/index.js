@@ -48,7 +48,7 @@ Rewrite the code below to use array destructuring instead of assigning each valu
     let {} = user;
   
     console.log(name); // John
-    console.log(age); // 30
+    console.log(age); // 3
     console.log(isAdmin); // false
     console.log();
   }
